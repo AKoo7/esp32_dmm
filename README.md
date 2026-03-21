@@ -144,6 +144,7 @@ MIT License — feel free to use and modify.
 
 * Inspired by reverse-engineering of DMM serial protocols
 * ESP32 community & Arduino ecosystem ❤️
+* images taken from - https://lygte-info.dk/review/DMMUNI-T%20UT33D%2B%20UK.html
 
 ---
 
