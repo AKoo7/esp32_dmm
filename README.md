@@ -1,4 +1,4 @@
-# 📟 ESP32 Digital Multimeter (DMM) Web Reader
+# 📟 ESP32 Digital Multimeter (DMM) Web Reader -- UNI-T UT33D+
 
 Turn your **serial-output digital multimeter** into a **live WiFi-enabled dashboard** using an ESP32.
 
