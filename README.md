@@ -36,6 +36,8 @@ This project reads measurement data from a DMM (e.g., UT33D+), decodes it, and s
 
 ## 🔌 Wiring
 
+![Board](Images/DSC_3466a.jpg)
+
 | ESP32 Pin    | DMM |
 | ------------ | --- |
 | GPIO16 (RX2) | TX  |
