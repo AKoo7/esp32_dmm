@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Trace](Images/Trace_1.png)
+
 This repository documents the analysis of the `DMM.sr` logic capture file obtained from a digital multimeter UART transmission. The capture was recorded using a logic analyzer and saved in **Sigrok session format (.sr)**. The goal of the analysis was to:
 
 * Identify the communication protocol used by the multimeter
